@@ -1,6 +1,6 @@
 02/07/2025
 
-In today's class we learned about the form linux commands :
+In today's class I learned about the following linux commands :
 
 sudo – Executes commands with superuser privileges.
 
